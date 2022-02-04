@@ -17,5 +17,5 @@ término de sua execução, o programa deverá informar qual das equipes venceu 
 1.17.6
 
 # Como exercutar
-$ git clone https://github.com/Davi-Cesar/corrida-revezamento.git
-$ go run corrida.go 
+git clone https://github.com/Davi-Cesar/corrida-revezamento.git
+go run corrida.go 
