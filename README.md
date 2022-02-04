@@ -12,3 +12,10 @@ simplicidade, desconsidere as regras válidas no mundo real em que o bastão nec
 Modifique o programa implementado para que haja mais de uma equipe de atletas participando
 da corrida de revezamento, cada uma em uma raia, de forma similar ao que ocorre no mundo real. Ao
 término de sua execução, o programa deverá informar qual das equipes venceu a prova.
+
+# Versão Go
+1.17.6
+
+# Como exercutar
+$ git clone https://github.com/Davi-Cesar/corrida-revezamento.git
+$ go run corrida.go 
